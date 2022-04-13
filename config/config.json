@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0xf05b088D61Afce6164e71122aaAAEB6c8D0eeDb3",
+  "CONTRACT_ADDRESS": "0xc98A6576faaF7A6d8fa9899582c316ab886fc23f",
+  
+  
+  "SCAN_LINK": "https://Etherscan.com/address/0xc98A6576faaF7A6d8fa9899582c316ab886fc23f ",
+  "NETWORK": {
+    "NAME": "Etereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "DickPunks",
+  "SYMBOL": "DP",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 30000000000000000,
+
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/DickPunks",
+  "SHOW_BACKGROUND": true
+}
